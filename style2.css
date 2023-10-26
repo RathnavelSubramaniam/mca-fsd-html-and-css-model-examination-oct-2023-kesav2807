@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    background-color: #333;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    padding: 20px;
+}
+
+section.episode {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+footer h1{
+    text-align: center;
+}
+footer b{
+    text-align: left;
+}
+.carousel-item p{
+    color: hwb(0 100% 0%);
+}
+.carousel-item h5{
+    color: #fff;
+}
+.k iframe {
+    background-color: #000;
+    
+}
